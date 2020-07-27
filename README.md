@@ -1,4 +1,4 @@
-### Hi there 👋
+### We keep fighting all the way, not for changing the world, but for not being changed us by the world!
 
 <!--
 **bluetata/bluetata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
