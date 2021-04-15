@@ -1,4 +1,4 @@
-### We keep fighting all the way, not for changing the world, but for not being changed us by the world!
+### もしも生活して迫ったのではなくて、誰が全身の技能を学びたいですか？!
 
 <!--
 **bluetata/bluetata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
