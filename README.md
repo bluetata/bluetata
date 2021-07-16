@@ -23,7 +23,7 @@ public static void main(String[] args) {
 }
 ```
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=bluetata&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluetata&theme=cobalt&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=bluetata&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluetata&theme=tokyonight&layout=compact)
 
 Blog: https://bluetata.blog.csdn.net/
