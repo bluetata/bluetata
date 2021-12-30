@@ -39,7 +39,7 @@ public static void main(String[] args) {
     </a>
     <a href="https://bluetata.blog.csdn.net/">
        <!-- <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"-->
-        <img src="https://img.shields.io/badge/CSDN-0A66C2?style=for-the-badge&logo=appveyor&logoColor=white
+        <img src="https://img.shields.io/badge/-blog-0A66C2?style=for-the-badge&logo=C&logoColor=red
             alt="bluetata's Blog">
     </a>
 </div>
