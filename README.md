@@ -15,11 +15,11 @@ public static void main(String[] args) {
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bluetata&show_icons=true&theme=vision-friendly-dark&count_private=true"
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bluetata&show_icons=true&theme=vision-friendly-dark&count_private=true&hide_border=true"
             alt="bluetata's Github stats">
     </a>
     <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bluetata&theme=great-gatsby"
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bluetata&theme=great-gatsby&hide_border=true"
             alt="bluetata's Github commit streak">
     </a>
 <!--
@@ -30,7 +30,7 @@ public static void main(String[] args) {
 
 ---
 
-## **:raising_hand: How to reach me**
+## **:raising_hand_man: How to reach me**
 
 <div align="center" style="text-align:center">
     <a href="mailto:sekito.lv@gmail.com">
@@ -39,7 +39,7 @@ public static void main(String[] args) {
     </a>
     <a href="https://bluetata.blog.csdn.net/">
        <!-- <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"-->
-        <img src="https://img.shields.io/badge/-blog-0A66C2?style=for-the-badge&logo=C&logoColor=red"
+        <img src="https://img.shields.io/badge/-blog-0A66C2?style=for-the-badge&logo=C&logoColor=white"
             alt="bluetata's Blog">
     </a>
 </div>
