@@ -1,19 +1,7 @@
 ### もしも生活して迫ったのではなくて、誰が全身の技能を学びたいですか？!
 
-<!--
-**bluetata/bluetata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ```Java
 public static void main(String[] args) {
@@ -23,7 +11,35 @@ public static void main(String[] args) {
 }
 ```
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=bluetata&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluetata&theme=tokyonight&layout=compact)
+---
 
-Blog: https://bluetata.blog.csdn.net/
+<div align="center" style="text-align:center">
+    <a href="#">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bluetata&show_icons=true&theme=vision-friendly-dark&count_private=true"
+            alt="bluetata's Github stats">
+    </a>
+    <a href="#">
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bluetata&theme=great-gatsby"
+            alt="bluetata's Github commit streak">
+    </a>
+<!--
+        <img width="40%" src="https://wakatime.com/share/@d02b98bb-107e-4342-a6ae-9730341305b7/a14535da-67f8-49b0-a5ec-c4b08b8e9438.svg"
+            alt="bluetata's wakatime last year stats">
+-->
+</div>
+
+---
+
+## **:raising_hand: How to reach me**
+
+<div align="center" style="text-align:center">
+    <a href="mailto:sekito.lv@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
+            alt="bluetata's Gmail">
+    </a>
+    <a href="https://bluetata.blog.csdn.net/">
+       <!-- <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"-->
+        <img src="https://img.shields.io/badge/CSDN-0A66C2?style=for-the-badge&logo=appveyor&logoColor=white
+            alt="bluetata's Blog">
+    </a>
+</div>
