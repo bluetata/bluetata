@@ -15,11 +15,11 @@ public static void main(String[] args) {
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bluetata&show_icons=true&theme=vision-friendly-dark&count_private=true&hide_border=true"
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bluetata&show_icons=true&theme=swift&count_private=true&hide_border=true"
             alt="bluetata's Github stats">
     </a>
     <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bluetata&theme=great-gatsby&hide_border=true"
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bluetata&theme=swift&hide_border=true"
             alt="bluetata's Github commit streak">
     </a>
 <!--
